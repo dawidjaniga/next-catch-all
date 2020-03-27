@@ -1,0 +1,18 @@
+{
+  "name": "next-catch-all",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dawidjaniga/next-catch-all.git",
+  "author": "Dawid Janiga <dawidjaniga@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.3.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
